@@ -12,7 +12,7 @@ namespace processatexto
 
             Console.WriteLine("Informe seu nome completo");
             nome = Console.ReadLine();
-
+            //Comentando
             Console.WriteLine("1 - Imprime o Nome: " + nome + "\n");
             Console.WriteLine("2 - Imprime o 1 Caracter: " + nome.Substring(0,1) + "\n");
             Console.WriteLine("3 - Imprime a Qtd de Caracteres: " + nome.Length + "\n");

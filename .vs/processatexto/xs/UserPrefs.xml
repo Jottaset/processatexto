@@ -1,1 +1,14 @@
-﻿<Properties />
+﻿<Properties StartupConfiguration="{97DB0973-8FD5-45AE-B5B8-3E5DEC65766B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="processatexto/Program.cs">
+    <Files>
+      <File FileName="processatexto/Program.cs" Line="15" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.processatexto PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
